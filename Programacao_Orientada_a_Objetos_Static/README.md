@@ -20,5 +20,3 @@ Pequeno projeto com exercícios sobre membros estáticos em Java.
    java com.university.poo.staticproj.Main
    ```
 
-## Observações
-- A taxa usada no `CurrencyConverter` foi consultada em 21/10/2025; para aplicações reais, substitua por uma chamada a uma API atualizada.
